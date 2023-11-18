@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Works/
-title: MISC Works
+permalink: /misc. works/
+title: misc. works
 description: Some published and unpublished work related to my studies and research interests.
 nav: true
 nav_order: 1
