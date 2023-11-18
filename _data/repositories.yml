@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - salomon73/Matlab-Routines 
+  - salomon73/PythonRoutinesBOZ
+  - salomon73/Noto-heat_equation
+  - salomon73/Random_Distr
+
