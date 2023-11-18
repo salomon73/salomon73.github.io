@@ -1,11 +1,11 @@
 ---
 layout: cv
-permalink: /cv/
-title: cv
+permalink: /CV/
+title: CV
 nav: true
 nav_order: 4
 cv_pdf: CV_1117.pdf
-description: Here is my CV.
+description: Click on the PDF logo on the right to access my full CV.
 toc:
   sidebar: left
 ---
