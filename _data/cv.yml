@@ -78,14 +78,13 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Stellarator design and optimziation
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Variational principles for vacuum field design
+        - Coil design
+    - title: Gyrotrons
       items:
-        - Description 1.
-        - Description 2.
+        - Formation and dynamics of trapped electron clouds
 
 - title: Other Interests
   type: list
