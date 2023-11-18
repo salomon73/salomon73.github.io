@@ -38,10 +38,9 @@
       year: 2019-2023
       description:
         - Teaching assistant for several Bsc in Physics courses 
-          description:
-            - Advanced Physics I
-            - Advanceed Physics II
-            - Advanced Analysis I
+        - Advanced Physics I
+        - Advanceed Physics II
+        - Advanced Analysis I
             
 
     - title: Notebook programmer
