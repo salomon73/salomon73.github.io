@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Others/
-title: Others
+permalink: /Other/
+title: Other
 description: Diverse things I like 
 nav: true
 nav_order: 5
