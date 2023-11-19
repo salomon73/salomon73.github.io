@@ -33,15 +33,17 @@
   contents:
     - title: Teaching assistant 
       institution: Swiss Federal Institute of Technology (EPFL)
-      year: 1933 - 1955
+      year: 2019 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Teaching assistant for several Bsc. in Physics courses.
+        - Advanced Physics I, Advanced Physics II, Advanced Analysis I.
 
+    - title: Notebook programmer
+      institution: Swiss Federal Institute of Technology (EPFL)
+      year: 2020 - 2021
+      description:
+        - Development of Jupyter Notebooks to solve PDEs for physics courses.
+        - Thermodynamics (Heat equation), Turing patterns (Diffusion and coupled PDEs).              
 
 - title: Academic Interests
   type: nested_list
@@ -53,8 +55,3 @@
     - title: Gyrotrons
       items:
         - Formation and dynamics of trapped electron clouds in gyrotrons
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
