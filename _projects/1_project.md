@@ -2,7 +2,7 @@
 layout: page
 title: project 1
 description: a project with a background image
-img: assets/img/QA_optimized_coils
+img: assets/img/QA_optimized_coils.jpg
 importance: 1
 category: work
 related_publications: 
