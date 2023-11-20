@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coil design
-description: a project with a background image
+description: Designing coils targetting a magnetic surface, and minimizing the vacuum field energy.
 img: assets/img/QA_optimized_coils.jpg
 importance: 2
 category: work
