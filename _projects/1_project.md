@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 1
+title: Coil design
 description: a project with a background image
 img: assets/img/QA_optimized_coils.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: 
 ---
