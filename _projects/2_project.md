@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rotational transform 
+title: Rotational Transform 
 description: Some work carried on the rotational transform.
 img: assets/img/rotational_transform.jpg
 importance: 1
