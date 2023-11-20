@@ -2,6 +2,7 @@
 layout: page
 title: project 4
 description: another without an image
+redirect: https://github.com/salomon73/Random_Distr
 img:
 importance: 3
 category: fun
