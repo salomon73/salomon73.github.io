@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: Rotational transform 
+description: Some work carried on the rotational transform.
+img: assets/img/rotational_transform.jpg
+importance: 1
 category: work
 giscus_comments: true
 ---
