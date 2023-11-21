@@ -13,8 +13,8 @@ Passionate about classical and jazz music, I am also a pianist, and would like t
 # Composers:
 
 - Rachmaninov (1873-1945) 
-    - Prelude Op.32 n°10 in B-minor `pdf`(poster.pdf)
-    - Etude tableau Op.33 n°7 in G-minor `pdf`(poster.pdf)
+    - Prelude Op.32 n°10 in B-minor <a href="{{ poster.pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
+    - Etude tableau Op.33 n°7 in G-minor `pdf`
 
 ## Links
 
