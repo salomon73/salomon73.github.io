@@ -6,7 +6,7 @@ img: assets/img/rotational_transform.jpg
 importance: 1
 category: work
 giscus_comments: false
-related_publications: Abaillod2023, Helander2014, CaryLittlejohn
+related_publications: 
 ---
 
 
@@ -24,7 +24,11 @@ A paper is currently being written and should be submitted or at least posted on
     </div>
 </div>
 <div class="caption">
-    Elliptical flux surface rotating around the magnetic axis, generating according to Mercier's formula, some rotational transform. The image is taken from <d-cite key="Abaillod2023">.
+    Elliptical flux surface rotating around the magnetic axis, generating according to Mercier's formula, some rotational transform. The image is taken from [BaA2023](https://infoscience.epfl.ch/record/302888?ln=en).
 </div>
 
 
+## Related publications 
+- [BaA2023](https://infoscience.epfl.ch/record/302888?ln=en): Baillod, A. (2023). Equilibrium pressure limits in stellarators. page 221. 
+- [Hel2014](https://iopscience.iop.org/article/10.1088/0034-4885/77/8/087001/meta): Helander, P. (2014), Theory of plasma confinement in non-axisymmetric magnetic fields.
+- [CaLij83](https://www.sciencedirect.com/science/article/abs/pii/0003491683903135): Cary, J. and Littlejohn, R. Noncanonical Hamiltonian mechanics and its application to magnetic field line flow.
