@@ -12,12 +12,16 @@ Passionate about classical and jazz music, I am also a pianist, and would like t
 
 ## Composers:
 
-- J. S. Bach 
-    - Die Kunst der Fügue 
+- J. S. Bach (1685-1750)
+    - Die Kunst der Fuge <a href="{{'Bach_fuge.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
+
+- Scriabin (1871-1915)
+    - Prelude Op.11 n°10 in C-sharp minor <a href="{{'Scriabin_op_11.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
+
     
 - S. V. Rachmaninov (1873-1945) 
-    - Prelude Op.32 n°10 in B-minor <a href="{{'poster.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
-    - Etude tableau Op.33 n°7 in G-minor <a href="{{'main.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
+    - Prelude Op.32 n°10 in B-minor <a href="{{'Rach_op_32.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
+    - Etude tableau Op.33 n°7 in G-minor <a href="{{'Rach_op_33.pdf' | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
 
 
 # Links
@@ -27,3 +31,5 @@ Below are some links to pages or things that I like.
 - The crazy [Swiss Bicycle Ascents Project](https://kbarbey.github.io/swiss-bicycle-ascents/)
 - The beautiful city of [Chamonix](https://en.chamonix.com)
 - The [Cincinnati](https://www.cincinnatiartmuseum.org) art museum
+- My [Besançon](https://www.besancon-tourisme.com/en/)
+- A great [wildlife inventory](https://www.inaturalist.org/observations?user_id=mosquitomel) website
