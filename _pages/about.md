@@ -19,10 +19,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my Webpage! I recently graduated from [EPFL](https://www.epfl.ch/en/) with a Master of Science in Theoretical Physics. I specialized in Plasma Physics, Quantum Physics and Astrophysics. I did my master's thesis at the Princeton Plasma Physics Laboratory ([PPPL](https://www.pppl.gov)) under the supervision of Dr. Stuart R. Hudson. You can find the thesis PDF in the section [misc. works](https://salomon73.github.io/misc.%20works/).
+Welcome to my webpage! I recently graduated from [EPFL](https://www.epfl.ch/en/) with a Master of Science in Theoretical Physics. I specialized in Plasma Physics, Quantum Physics and Astrophysics. I did my master's thesis at the Princeton Plasma Physics Laboratory ([PPPL](https://www.pppl.gov)) under the supervision of Dr. Stuart R. Hudson. You can find the thesis PDF in the section [misc. works](https://salomon73.github.io/misc.%20works/).
 
 In my research, I focus mainly on Stellarators, their design and optimization, working on the vacuum field and on the magnetic coils. I also worked on trapped electron clouds in gyrotrons. Check out the Projects section to learn more about ongoing or future research.  
 
-Below, you can find links to my Linkedin, GitHub and Orcid pages. Don't forget to check out the repositories section on this Webpage too! 
+Below, you can find links to my Linkedin, GitHub and Orcid pages. Don't forget to check out the repositories section on this webpage too! 
 
 Salomon 
