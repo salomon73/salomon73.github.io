@@ -4,7 +4,7 @@ permalink: /CV/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: CV_1210.pdf
+cv_pdf: CV_0521.pdf
 description: Click on the PDF logo to the right to access my full CV.
 toc:
   sidebar: left
