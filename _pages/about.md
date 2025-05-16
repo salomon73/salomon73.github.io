@@ -6,7 +6,7 @@ subtitle: <a href='#'></a>
 
 profile:
   align: right
-  image: 
+  image: /assets/img/profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Runaway Electrons Group </p>
@@ -19,10 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my webpage! I graduated from [EPFL](https://www.epfl.ch/en/) with a Master of Science in Theoretical Physics. I specialized in Plasma Physics, Quantum Physics and Astrophysics. I did my master's thesis at the Princeton Plasma Physics Laboratory ([PPPL](https://www.pppl.gov)) under the supervision of Dr. Stuart R. Hudson. You can find the thesis PDF in the section [misc. works](https://salomon73.github.io/misc.%20works/).
+Welcome to my webpage! I am a doctoral assistant at the Swiss Plasma Center [SPC](https://www.epfl.ch/research/domains/swiss-plasma-center/). In my research, I focus mainly on the theory of bremsstrahlung, runaway electrons, and stellarator coil design. I am also fond of math, in particular differential geometry and differential geometry, and their potential applications to my field. 
 
-I am now a doctoral assistant at the Swiss Plasma Center [SPC](https://www.epfl.ch/research/domains/swiss-plasma-center/). In my research, I focus mainly on runaway electrons in tokamaks. Among other things, I am working on their modelling and their mitigation. In addition, I have a strong interest for stellarators, their design and optimization through work on the vacuum field and the magnetic coils. I also worked on trapped electron clouds in gyrotrons. Check out the Projects section to learn more about ongoing or future research.  
+Below, you can find links to my Linkedin, GitHub and Orcid pages. 
 
-Below, you can find links to my Linkedin, GitHub and Orcid pages. Don't forget to check out the repositories section on this webpage too! 
-
-Salomon 
