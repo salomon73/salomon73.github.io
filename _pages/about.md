@@ -6,7 +6,7 @@ subtitle: <a href='#'></a>
 
 profile:
   align: right
-  image: /assets/img/profile.jpg
+  image: assets/img/profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Runaway Electrons Group </p>
