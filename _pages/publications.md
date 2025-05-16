@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /misc. works/
-title: misc. works
-description: Some published and unpublished work related to my studies and research interests. Please kindly cite these works if you were to use them.
+permalink: /Publications/
+title: Publications 
+description: 
 nav: true
 nav_order: 1
 ---
