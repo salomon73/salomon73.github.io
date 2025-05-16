@@ -8,10 +8,10 @@ nav_order: 1
 
 <div class="publications">
 
-## Journal Publications
+{{ "## Journal Publications" | markdownify }}
 {% bibliography --query @*[keywords~=publication] %}
 
-## Conference Papers
+{{ "## Conference Papers" | markdownify }}
 {% bibliography --query @*[keywords~=conference] %}
 
 </div>
