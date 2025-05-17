@@ -8,10 +8,9 @@ nav_order: 1
 
 <div class="publications">
 
-<h2>Publications</h2>
 {% bibliography --query @*[keywords~=publication] %}
 
-<h2>Conferences</h2>
+<h1>Conferences</h1>
 {% bibliography --query @*[keywords~=conference] %}
 
 
