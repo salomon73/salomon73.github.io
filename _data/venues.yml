@@ -8,3 +8,15 @@
 "CPC":
   url: https://www.sciencedirect.com/journal/computer-physics-communications
   color: "#00369f"
+
+"PPCF":
+  url: https://iopscience.iop.org/journal/0741-3335
+  color: "#42b983"
+  
+"JPP":
+  url: https://www.cambridge.org/core/journals/journal-of-plasma-physics#
+  color: "#e7c000"
+
+"POP":
+  url: https://pubs.aip.org/aip/pop
+  color: "#c00"

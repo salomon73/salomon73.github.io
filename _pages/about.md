@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Runaway Electrons Group </p>
-    <p> Swiss Plasma center, PPH273 </p>
+    <p> Swiss Plasma center </p>
     <p> 1015 Lausanne (VD), Switzerland </p>
 
 news: false  # includes a list of news items
