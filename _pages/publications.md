@@ -1,17 +1,18 @@
 ---
 layout: page
 permalink: /Publications/
-title: 
+title: Publications
 nav: true
 nav_order: 1
 ---
 
 <div class="publications">
 
-{{ "# Publications " | markdownify }}
+<h2>Publications</h2>
 {% bibliography --query @*[keywords~=publication] %}
 
-{{ "# Conferences" | markdownify }}
+<h2>Conferences</h2>
 {% bibliography --query @*[keywords~=conference] %}
+
 
 </div>
