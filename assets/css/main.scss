@@ -19,11 +19,18 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/regular"
 ;
 
+.contact-icons {
+  display: flex;
+  align-items: center; /* vertically align icons and globe */
+  gap: 10px;            /* optional spacing between icons and globe */
+}
+
 #visitor-globe-container {
-  width: 150px;
-  height: 150px;
+  width: 40px;      /* adjust as needed */
+  height: 40px;
   overflow: hidden;
   position: relative;
+  flex-shrink: 0;   /* prevents it from shrinking if container is small */
 }
 
 #visitor-globe-container iframe,
@@ -31,3 +38,4 @@ $max-content-width: {{ site.max_width }};
   width: 100% !important;
   height: 100% !important;
 }
+
