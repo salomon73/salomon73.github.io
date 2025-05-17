@@ -18,3 +18,16 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+
+#visitor-globe-container {
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+}
+
+#visitor-globe-container iframe,
+#visitor-globe-container canvas {
+  width: 100% !important;
+  height: 100% !important;
+}
