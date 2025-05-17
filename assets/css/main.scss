@@ -26,8 +26,8 @@ $max-content-width: {{ site.max_width }};
 }
 
 #visitor-globe-container {
-  width: 40px;      /* adjust as needed */
-  height: 40px;
+  width: 80px;      /* adjust as needed */
+  height: 80px;
   overflow: hidden;
   position: relative;
   flex-shrink: 0;   /* prevents it from shrinking if container is small */
