@@ -11,12 +11,12 @@
 
 "PPCF":
   url: https://iopscience.iop.org/journal/0741-3335
-  color: "#42b983"
+  color: "#00369f"
   
 "JPP":
   url: https://www.cambridge.org/core/journals/journal-of-plasma-physics#
-  color: "#e7c000"
+  color: "#00369f"
 
 "POP":
   url: https://pubs.aip.org/aip/pop
-  color: "#c00"
+  color: "#00369f"
