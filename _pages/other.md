@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Other/
+permalink: 
 title: Other
 description: Diverse things I like or links to pages I want to share. 
 nav: true
