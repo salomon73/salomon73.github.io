@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: 
+published: false
 description: Here are few of the things I have been working on.
 nav: false
 nav_order: 5
