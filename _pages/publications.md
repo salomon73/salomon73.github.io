@@ -1,21 +1,26 @@
 ---
 layout: page
-permalink: /Publications/
-title: Publications
+permalink: /Research/
+title: Research
 nav: true
 nav_order: 1
 ---
 
-<div class="publications">
+<div class="Preprints">
+{% bibliography --query @*[keywords~=preprint] %}
+</div>
+
+# Publications
+
+<div class="Publications">
 {% bibliography --query @*[keywords~=publication] %}
 </div>
 
+
 # Conferences
 
-<div class="publications">
+<div class="Conferences">
 {% bibliography --query @*[keywords~=conference] %}
 </div>
-
-
 
 
