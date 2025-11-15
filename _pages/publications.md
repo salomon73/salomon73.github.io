@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Research/
-title: Research
+permalink: /research/
+title: Research 
 nav: true
 nav_order: 1
 ---
@@ -18,23 +18,19 @@ nav_order: 1
 
 * **Including the vacuum energy in stellarator coil design**  
   S. Guinchard, S. R. Hudson, E. J. Paul.  
-  *Plasma Physics and Controlled Fusion*, **67**(3), 035028 (2025).  
-  [journal](https://dx.doi.org/10.1088/1361-6587/adb789)
+  *Plasma Physics and Controlled Fusion*, **67**(3), 035028 (2025). [Link](https://dx.doi.org/10.1088/1361-6587/adb789)
 
 * **Sensitivity of the magnetic axis to variations in the magnetic field**  
   S. R. Hudson, S. Guinchard, W. Sengupta.  
-  *Physics of Plasmas*, **32**(1), 012505 (2025).  
-  [journal](https://doi.org/10.1063/5.0241455)
+  *Physics of Plasmas*, **32**(1), 012505 (2025). [Link](https://doi.org/10.1063/5.0241455)
 
 * **Application of Lagrangian techniques for calculating the on-axis rotational transform**  
   S. Guinchard, W. Sengupta, S. R. Hudson.  
-  *Journal of Plasma Physics* (2024).  
-  [journal](https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/application-of-lagrangian-techniques-for-calculating-the-onaxis-rotational-transform/15DB035A9C614D1DAC8C09E1D47B704E)
+  *Journal of Plasma Physics* (2024). [Link](https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/application-of-lagrangian-techniques-for-calculating-the-onaxis-rotational-transform/15DB035A9C614D1DAC8C09E1D47B704E)
 
 * **FENNECS: a novel particle-in-cell code for simulating the formation of magnetized non-neutral plasmas trapped by electrodes of complex geometries**  
   G. Le Bars, S. Guinchard, J. Loizu, J.P. Hogge, S. Alberti, F. Romano, J. Genoud, A. Cerfon.  
-  *Computer Physics Communications* (2023).  
-  [journal](https://www.sciencedirect.com/science/article/pii/S0010465524001917)
+  *Computer Physics Communications* (2023). [Link](https://www.sciencedirect.com/science/article/pii/S0010465524001917)
 
 ---
 
