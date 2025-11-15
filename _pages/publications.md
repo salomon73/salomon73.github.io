@@ -56,7 +56,7 @@ nav_order: 1
   S. Guinchard, W. Sengupta, S. R. Hudson.  
   **Online talk**, Princeton, NJ (November 2023).
 
-  * **FENNECS: A flexible code to simulate non-neutral plasmas trapped in penning-like annular potential wells**  
+* **FENNECS: A flexible code to simulate non-neutral plasmas trapped in penning-like annular potential wells**  
   G. Le Bars, S. Guinchard, J.P. Hogge, *et al.*  
   **49th EPS Conference on Plasma Physics**, Bordeaux, France (July 2023).
 
