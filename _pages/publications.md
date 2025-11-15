@@ -10,7 +10,7 @@ nav_order: 1
 
 * **Screened Thin-Target Bremsstrahlung with Partially-Ionized High-Z Species**  
   S. Guinchard, Y. Savoye-Peysson, J. Decker (2025).  
-  Preprint. [arXiv](https://arxiv.org/abs/2511.02098)
+  Submitted. [arXiv](https://arxiv.org/abs/2511.02098)
 
 ---
 
@@ -40,21 +40,29 @@ nav_order: 1
   S. Guinchard, Y. Savoye-Peysson, J. Decker.  
   Presented at the **51st EPS Conference on Plasma Physics**, Vilnius, Lithuania (July 2025).
 
+* **Including the vacuum field energy in stellarator coil design**  
+  S. Guinchard, S. R. Hudson, E. J. Paul.  
+  Poster at the **2024 Joint Varenna-Lausanne International Workshop on the Theory of Fusion Plasmas**, Varenna, Italy (September 2024).
+
+* **Application of Lagrangian integration to the magnetic axis**  
+  S. R. Hudson, S. Guinchard, W. Sengupta.  
+  Poster at the **2024 Joint Varenna-Lausanne International Workshop on the Theory of Fusion Plasmas**, Varenna, Italy (September 2024).
+
 * **Lagrangian techniques and on-axis rotational transform — Vacuum field energy for coil design**  
   S. Guinchard, S. R. Hudson, W. Sengupta, E. J. Paul.  
   Talk at **Columbia University**, New York, NY (August 2023).
 
 * **Recovering the on-axis rotational transform from variational principles**  
   S. Guinchard, W. Sengupta, S. R. Hudson.  
-  Online talk, Princeton, NJ (November 2023).
+  **Online talk**, Princeton, NJ (November 2023).
+
+  * **FENNECS: A flexible code to simulate non-neutral plasmas trapped in penning-like annular potential wells**  
+  G. Le Bars, S. Guinchard, J.P. Hogge, *et al.*  
+  **49th EPS Conference on Plasma Physics**, Bordeaux, France (July 2023).
 
 * **Equilibrium β-limit in a quasi-axisymmetric stellarator with self-consistent bootstrap current**  
   A. Baillod, S. Guinchard, J. Loizu, J. P. Graves.  
   Poster at the **Simons Meetings on Hidden Symmetries and Fusion Energy**, Princeton, NJ (March 2023).
-
-* **FENNECS: A flexible code to simulate non-neutral plasmas trapped in penning-like annular potential wells**  
-  G. Le Bars, S. Guinchard, J.P. Hogge, *et al.*  
-  **49th EPS Conference on Plasma Physics**, Bordeaux, France (July 2023).
 
 * **Numerical study of the influence of ion-induced electron emissions on the dynamics of electron clouds in gyrotron-like geometries**  
   S. Guinchard, G. Le Bars.  
