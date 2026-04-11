@@ -14,8 +14,8 @@ nav_order: 1
 ## Publications
 
 * **Screened Thin-Target Bremsstrahlung with Partially-Ionized High-Z Species**  
-  S. Guinchard, Y. Savoye-Peysson, J. Decker (2026).  
-  *Physical Review A*, **113**, 042810 [Link](https://doi.org/10.1103/td24-yfw2)
+  S. Guinchard, Y. Savoye-Peysson, J. Decker.  
+  *Physical Review A*, **113**, 042810 (2026). [Link](https://doi.org/10.1103/td24-yfw2)
 
 * **Including the vacuum energy in stellarator coil design**  
   S. Guinchard, S. R. Hudson, E. J. Paul.  
